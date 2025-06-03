@@ -99,7 +99,6 @@ Each model's performance is evaluated using:
 - Precision
 - Recall
 - F1-score
-- Confusion Matrix
 
 ## Requirements
 
